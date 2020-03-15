@@ -46,7 +46,7 @@ The result should point to your virtual env path.
 ### Install your packages
 
 ```bash
-$ pip3 install requests
+$ pip3 install [package name] # e.g., pip3 install fxcmpy python-socketio 
 ```
 
 ### Save installed packages to `requirements.txt` file
